@@ -28,7 +28,7 @@ Passionate about building responsive web applications, modern dashboards, and mo
 ### 📌 Projects Overview
 
 #### 🛠️ Nazdeek Admin Dashboard (FYP)
-*User-Friendly Admin Interface
+User-Friendly Admin Interface
 - Designed an intuitive dashboard layout with Tailwind CSS for high usability and clean presentation.
 - Configured seamless navigation routes using `react-router-dom` alongside custom hooks.
 - Built interactive UI workflows for provider verification, dynamic category management, and administrative actions.
