@@ -28,7 +28,7 @@ Passionate about building responsive web applications, modern dashboards, and mo
 ### 📌 Projects Overview
 
 #### 🛠️ Nazdeek Admin Dashboard (FYP)
-User-Friendly Admin Interface
+*User-Friendly Admin Interface (Group Project)* — [View Repository](https://github.com/USERNAME/REPO-NAME)
 - Designed an intuitive dashboard layout with Tailwind CSS for high usability and clean presentation.
 - Configured seamless navigation routes using `react-router-dom` alongside custom hooks.
 - Built interactive UI workflows for provider verification, dynamic category management, and administrative actions.
@@ -38,5 +38,5 @@ User-Friendly Admin Interface
 
 
 ### 📫 Connect with me:
-- **Email:** [mahafatima4145@gmail.com]
-- **LinkedIn:** [(https://www.linkedin.com/in/maha-naseer-269118312)]
+- **Email:** mahafatima4145@gmail.com
+- **LinkedIn:** [Maha Naseer](https://www.linkedin.com/in/maha-naseer-269118312)
